@@ -34,7 +34,4 @@ bằng Unity 6.3 và ngôn ngữ lập trình C#.
 4. Chọn thư mục EndlessRunner3D.
 5. Mở bằng Unity 6.3.
 
-## 6. Tác giả
-Sinh viên thực hiện: ...
-Lớp: ...
-Đề tài: Game chạy vượt chướng ngại vật 3D.
+
